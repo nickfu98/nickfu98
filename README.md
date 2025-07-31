@@ -8,6 +8,6 @@ Take a look at my projects:
 
 📫 Contact Me: 
 - email: nick.h.fu@gmail.com
-- [LinkedIn] (https://www.linkedin.com/in/nick-fu-b0987b316/)
+- [LinkedIn](https://www.linkedin.com/in/nick-fu-b0987b316/)
 
 
