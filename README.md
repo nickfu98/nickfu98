@@ -2,20 +2,12 @@
 
 I'm an aspiring healthcare data analyst! My portfolio highlights my projects, answering the questions that allow the leadership staff in healthcare to beter serve their patients and the business. 
 
-View my latest project analyzing patient encounters, readmission rates, revenue trends and more: [Hospital Encounters SQL Analysis]  
-<!--
-**nickfu98/nickfu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Take a look at my projects: 
+  - [Hospital Encounters Analysis (SQL)](https://github.com/nickfu98/Hospital-appointments-dashboard-excel)
+  - [Hospital Patient Flow and Revenue Analysis Dashboard (Excel)](https://github.com/nickfu98/hospital-encounters-sql-project)
 
 📫 Contact Me: 
 - email: nick.h.fu@gmail.com
-- LinkedIn:
+- [LinkedIn] (https://www.linkedin.com/in/nick-fu-b0987b316/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ..
-- ⚡ Fun fact: ...
 
