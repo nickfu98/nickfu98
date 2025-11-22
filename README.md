@@ -5,8 +5,8 @@ I'm an aspiring healthcare data analyst! My portfolio highlights my projects, an
 **Take a look at my projects:** 
   - [Massachusetts General Hospital Encounters 2011-2022 Dashboard (Power BI)](https://github.com/nickfu98/PowerBI-hospital-encounters-dashboard/blob/main/README.md)
   - [Massachusetts General Hospital Encounters Analysis (SQL)](https://github.com/nickfu98/hospital-encounters-sql-project/blob/main/README.md)
-  - [Hospital Patient Flow and Revenue Analysis Dashboard (Excel)](https://github.com/nickfu98/Hospital-appointments-dashboard-excel)
-  - [Grocery Sales Dashboard 6 Million Orders] (
+  - [Hospital Patient Flow and Revenue Analysis Dashboard (Excel)](https://github.com/nickfu98/PowerBI-hospital-encounters-dashboard/blob/main/README.md)
+  - [Grocery Sales Dashboard 6 Million Orders](https://github.com/nickfu98/Grocery-Sales-Analytics/blob/main/README.md)
 --- 
 
 📫 Contact Me: 
